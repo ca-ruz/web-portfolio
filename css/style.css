@@ -4,6 +4,7 @@ body {
 
 h1 {
     color: purple;
+    font-family: 'Franklin Gothic Medium';
     font-size: 45px;
     text-align: center;
 }
@@ -20,6 +21,29 @@ form {
     text-align: right;
 }
 
+iframe {
+    align-content: center;
+}
+
 table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aqua;
+}
+
+#MyHeader {
+    text-shadow: blue;
+}
+
+.MainTitle {
+    box-shadow: blue;
+}
+
+.iframes {
+    align-items: center;
+}
+
+.description {
+    color: purple;
+    font-size: 20px;
+    align-self: center;
 }
