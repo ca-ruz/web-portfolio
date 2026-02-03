@@ -1,20 +1,27 @@
+/* Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+/* Lobster Two */
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     background-color: black;
 }
 
 .container {
 display: flex;
 flex-direction: row;
-/* flex-wrap: wrap; */
+flex-wrap: wrap;
 /* justify-content: flex-start; */
-/* justify-content: space-between; */
+justify-content:space-around;
 gap: 25px;
 }
 
 h1 {
     color: purple;
     font-family: 'Franklin Gothic Medium';
-    font-size: 45px;
+    font-size: 40px;
     text-align: center;
 }
 
@@ -30,9 +37,9 @@ form {
     /* text-align: right; */
 }
 
-iframe {
+/* iframe {
     align-content: center;
-}
+} */
 
 table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -54,11 +61,55 @@ table {
 } */
 
 .description {
-    color: purple;
+    color: white;
     font-size: 20px;
-    align-self: center;
+    text-align: center;
 }
 
 .agree-or-not {
     font-size: medium;
 }
+
+img {
+    width: 550px;
+    height: auto;
+}
+
+.link_img {
+    width: 150px;
+    height: auto;
+}
+
+.me_img {
+    width:300px;
+    height:auto;
+}
+
+.Title2 {
+    color: blue;
+}
+
+.Title3 {
+    color: yellow;
+}
+
+.mywork_div {
+    background-color: black;
+}
+
+.description_title {
+    color: purple;
+    font-size: x-large;
+}
+
+.aboutme_title {
+    /* color: purple; */
+}
+
+
+
+
+
+
+
+/* #1c1b1a *
