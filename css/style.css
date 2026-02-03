@@ -21,7 +21,7 @@ gap: 25px;
 
 h1 {
     color: purple;
-    font-family: 'Franklin Gothic Medium';
+    /* font-family: 'Franklin Gothic Medium'; */
     font-size: 40px;
     text-align: center;
 }
@@ -42,18 +42,18 @@ form {
     align-content: center;
 } */
 
-table {
+/* table {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: aqua;
-}
+} */
 
-#MyHeader {
+/* #MyHeader {
     text-shadow: blue;
 }
 
 .MainTitle {
     box-shadow: blue;
-}
+} */
 
 /* .div_iframes {
     flex-wrap: wrap;
@@ -72,7 +72,7 @@ table {
 }
 
 img {
-    width: 550px;
+    width: 600px;
     height: auto;
 }
 
@@ -101,6 +101,7 @@ img {
 .description_title {
     color: purple;
     font-size: x-large;
+    text-align: center;
 }
 
 /* .aboutme_title {
